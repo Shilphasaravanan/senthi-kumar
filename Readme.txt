@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
